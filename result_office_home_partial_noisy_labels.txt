@@ -1,0 +1,112 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ 15-Jun-2024 17:39:06
+ rho = 1.000 r = 1.100 p = 5
+ eta = 0.500
+******************************
+Art_vs_Clipart :
+accuracy: 46.09
+******************************
+Art_vs_Product :
+accuracy: 69.86
+******************************
+Art_vs_RealWorld :
+accuracy: 75.92
+******************************
+Clipart_vs_Art :
+accuracy: 65.47
+******************************
+Clipart_vs_Product :
+accuracy: 73.50
+******************************
+Clipart_vs_RealWorld :
+accuracy: 78.19
+******************************
+Product_vs_Art :
+accuracy: 70.25
+******************************
+Product_vs_Clipart :
+accuracy: 45.19
+******************************
+Product_vs_RealWorld :
+accuracy: 83.49
+******************************
+RealWorld_vs_Art :
+accuracy: 70.25
+******************************
+RealWorld_vs_Clipart :
+accuracy: 50.81
+******************************
+RealWorld_vs_Product :
+accuracy: 84.37
+******************************
+Art_vs_Clipart :
+accuracy: 44.96
+******************************
+Art_vs_Product :
+accuracy: 78.77
+******************************
+Art_vs_RealWorld :
+accuracy: 80.51
+******************************
+Clipart_vs_Art :
+accuracy: 61.52
+******************************
+Clipart_vs_Product :
+accuracy: 66.27
+******************************
+Clipart_vs_RealWorld :
+accuracy: 71.01
+******************************
+Product_vs_Art :
+accuracy: 67.77
+******************************
+Product_vs_Clipart :
+accuracy: 40.12
+******************************
+Product_vs_RealWorld :
+accuracy: 78.96
+******************************
+RealWorld_vs_Art :
+accuracy: 69.79
+******************************
+RealWorld_vs_Clipart :
+accuracy: 41.37
+******************************
+RealWorld_vs_Product :
+accuracy: 82.58
+******************************
+Art_vs_Clipart :
+accuracy: 47.70
+******************************
+Art_vs_Product :
+accuracy: 75.52
+******************************
+Art_vs_RealWorld :
+accuracy: 80.78
+******************************
+Clipart_vs_Art :
+accuracy: 65.38
+******************************
+Clipart_vs_Product :
+accuracy: 65.71
+******************************
+Clipart_vs_RealWorld :
+accuracy: 82.66
+******************************
+Product_vs_Art :
+accuracy: 66.94
+******************************
+Product_vs_Clipart :
+accuracy: 46.03
+******************************
+Product_vs_RealWorld :
+accuracy: 80.23
+******************************
+RealWorld_vs_Art :
+accuracy: 71.72
+******************************
+RealWorld_vs_Clipart :
+accuracy: 47.88
+******************************
+RealWorld_vs_Product :
+accuracy: 81.40

@@ -1,0 +1,40 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ 15-Jun-2024 17:29:42
+ rho = 1.000 r = 1.200 p = 5
+ eta = 0.010
+******************************
+Art_Art_vs_Art_Clipart :
+accuracy: 59.88
+******************************
+Art_Art_vs_Art_Product :
+accuracy: 86.55
+******************************
+Art_Art_vs_Art_RealWorld :
+accuracy: 90.89
+******************************
+Clipart_Clipart_vs_Clipart_Art :
+accuracy: 69.42
+******************************
+Clipart_Clipart_vs_Clipart_Product :
+accuracy: 72.04
+******************************
+Clipart_Clipart_vs_Clipart_RealWorld :
+accuracy: 82.05
+******************************
+Product_Product_vs_Product_Art :
+accuracy: 69.42
+******************************
+Product_Product_vs_Product_Clipart :
+accuracy: 59.76
+******************************
+Product_Product_vs_Product_RealWorld :
+accuracy: 85.86
+******************************
+RealWorld_RealWorld_vs_RealWorld_Art :
+accuracy: 78.42
+******************************
+RealWorld_RealWorld_vs_RealWorld_Clipart :
+accuracy: 58.81
+******************************
+RealWorld_RealWorld_vs_RealWorld_Product :
+accuracy: 86.11

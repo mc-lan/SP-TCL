@@ -1,0 +1,58 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ 15-Jun-2024 17:09:41
+ rho = 1.000 r = 1.100 p = 5
+ eta = 1.000
+******************************
+amazon_vs_dslr :
+accuracy: 92.99
+******************************
+amazon_vs_webcam :
+accuracy: 85.08
+******************************
+dslr_vs_amazon :
+accuracy: 85.39
+******************************
+dslr_vs_webcam :
+accuracy: 96.61
+******************************
+webcam_vs_amazon :
+accuracy: 95.41
+******************************
+webcam_vs_dslr :
+accuracy: 99.36
+******************************
+amazon_vs_dslr :
+accuracy: 96.18
+******************************
+amazon_vs_webcam :
+accuracy: 88.81
+******************************
+dslr_vs_amazon :
+accuracy: 95.72
+******************************
+dslr_vs_webcam :
+accuracy: 97.63
+******************************
+webcam_vs_amazon :
+accuracy: 95.30
+******************************
+webcam_vs_dslr :
+accuracy: 99.36
+******************************
+amazon_vs_dslr :
+accuracy: 93.63
+******************************
+amazon_vs_webcam :
+accuracy: 86.44
+******************************
+dslr_vs_amazon :
+accuracy: 85.18
+******************************
+dslr_vs_webcam :
+accuracy: 94.24
+******************************
+webcam_vs_amazon :
+accuracy: 95.93
+******************************
+webcam_vs_dslr :
+accuracy: 99.36

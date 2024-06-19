@@ -1,0 +1,22 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ 15-Jun-2024 16:59:35
+ rho = 1.000 r = 1.200 p = 5
+ eta = 0.100
+******************************
+amazon_amazon_vs_amazon_dslr :
+accuracy: 93.98
+******************************
+amazon_amazon_vs_amazon_webcam :
+accuracy: 89.43
+******************************
+dslr_dslr_vs_dslr_amazon :
+accuracy: 73.55
+******************************
+dslr_dslr_vs_dslr_webcam :
+accuracy: 98.24
+******************************
+webcam_webcam_vs_webcam_amazon :
+accuracy: 74.48
+******************************
+webcam_webcam_vs_webcam_dslr :
+accuracy: 99.40
