@@ -16,7 +16,7 @@ If you find the repo useful, please kindly cite the paper below
 
     @article{lan2024learning,
       title={Learning to Discover Knowledge: A Weakly-Supervised Partial Domain Adaptation Approach},
-      author={Lan, Mengcheng and Meng, Min and Yu, Jun and Wu, Jigang},
+      author={Mengcheng Lan, Min Meng, Jun Yu and Jigang Wu},
       journal={IEEE Transactions on Image Processing},
       year={2024},
       publisher={IEEE}
