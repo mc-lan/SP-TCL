@@ -1,9 +1,9 @@
 # SP-TCL
-[TIP2024] Learning to Discover Knowledge: A Weakly-Supervised Partial Domain Adaptation Approach
+Learning to Discover Knowledge: A Weakly-Supervised Partial Domain Adaptation Approach, IEEE Transactions on Image Processing, 2024
 
 
 ### 1. Prepare Datasets
-Download the datasets from [[Google Drive](https://drive.google.com/drive/folders/1g_e6pgfWgVWl1NglgdeTnVkOWvIC4alH?usp=sharing) | [BaiduPan (pw: 36id)](https://pan.baidu.com/s/1EAjlJ23JLORFMZCaqxpovg?pwd=36id )] to `Datasets` folder.
+Download the datasets from [[Google Drive](https://drive.google.com/drive/folders/1g_e6pgfWgVWl1NglgdeTnVkOWvIC4alH?usp=sharing) | [BaiduPan (pw: 36id)](https://pan.baidu.com/s/1EAjlJ23JLORFMZCaqxpovg?pwd=36id )] to the `Datasets` folder.
 
 ### 2. Run the code
 ```shell script
