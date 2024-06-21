@@ -1,5 +1,5 @@
 # SP-TCL
-Learning to Discover Knowledge: A Weakly-Supervised Partial Domain Adaptation Approach, IEEE Transactions on Image Processing, 2024
+Learning to Discover Knowledge: A Weakly-Supervised Partial Domain Adaptation Approach, IEEE Transactions on Image Processing, 2024. [ArXiv](https://arxiv.org/abs/2406.14274)
 
 
 ### 1. Prepare Datasets
